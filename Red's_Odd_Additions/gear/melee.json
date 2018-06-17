@@ -15,7 +15,6 @@
     "price": 500,
     "to_hit": 5
   },
-
   {
    "type": "GENERIC",
    "id": "serrated_can",
@@ -30,23 +29,6 @@
    "price": 50,
    "to_hit": -2
   },
- {
-    "type": "GENERIC",
-    "id": "giant_axe",
-    "name": "giant axe",
-    "description": "Judging from the stupidly large weight and size, you can only assume this was either used by a Transformer or some sort of gigantic monstrosity.",
-    "weight": 454000000,
-    "color": "brown",
-    "symbol": "P",
-    "material": [ "wood", "hardsteel" ],
-    "techniques": [ "BRUTAL" ],
-    "volume": 1000000,
-    "bashing": 250,
-    "cutting": 1000,
-    "price": 5000000,
-    "to_hit": -100
-  },
-
   {
    "type": "GENERIC", 
    "id": "plutonium_dagger", 
