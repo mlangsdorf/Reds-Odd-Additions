@@ -12,17 +12,6 @@
 
  {
   "type": "GENERIC",
-  "id": "essence_bacon_item",
-  "symbol": "*",
-  "color": "red",
-  "name": "Essence of Bacon",
-  "description": "Used to create items that are orientated around bacon.",
-  "price": 1,
-  "volume": 1
- },
-
- {
-  "type": "GENERIC",
   "id": "essence_cut_item",
   "symbol": "*",
   "color": "grey",
